@@ -1,0 +1,8 @@
+[package]
+name = "fyle-client"
+version = "0.0.0"
+authors = ["Dylan Roskilly <fyle@dylanroskilly.me>"]
+edition = "2024"
+license = "MIT"
+description = "FTP client"
+repository = "https://github.com/DylanRoskilly/fyle"
