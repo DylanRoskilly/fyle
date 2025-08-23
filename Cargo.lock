@@ -7,9 +7,9 @@ name = "fyle"
 version = "0.0.0"
 
 [[package]]
-name = "fyle-client"
+name = "fyle-base"
 version = "0.0.0"
 
 [[package]]
-name = "fyle-lib"
+name = "fyle-client"
 version = "0.0.0"

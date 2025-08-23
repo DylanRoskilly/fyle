@@ -1,2 +1,2 @@
 [workspace]
-members = ["fyle", "fyle-client", "fyle-lib"]
+members = ["fyle", "fyle-client", "fyle-base"]

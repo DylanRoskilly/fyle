@@ -1,8 +1,8 @@
 [package]
-name = "fyle-lib"
+name = "fyle-base"
 version = "0.0.0"
 authors = ["Dylan Roskilly <fyle@dylanroskilly.me>"]
 edition = "2024"
 license = "MIT"
-description = "Shared FTP utilities"
+description = "FTP primitives and utilities"
 repository = "https://github.com/DylanRoskilly/fyle"
